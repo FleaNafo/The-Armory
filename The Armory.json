@@ -75,6 +75,224 @@
         "Barrel":"86550461295498",
         "Shell":"12086641766",
         "Rail":"15565679432"
+      },
+      "AKs-74u":{
+        "Lower Reciever":"7523901720",
+        "Upper Reciever":"7523906887",
+        "Stock Structure":"7523912159",
+        "Stock Pieces":"7523911053",
+        "Woodwork":"7523899736",
+        "Details":"7523908513",
+        "Bolt":"7523910299",
+        "Magazine":"7523905084"
+      },
+      "AG-043":{
+        "Upper Reciever":"7525036181",
+        "Lower Reciever":"7525033840",
+        "Grips":"7525029285",
+        "Stock":"7525034854",
+        "Details":"7525035610",
+        "Magazine":"7525032783"
+      },
+      "AMD-65":{
+        "Upper Reciever":"7524672626",
+        "Lower Reciever":"7524652943",
+        "Details":"7524676838",
+        "Bolt":"7524675510",
+        "Grip":"7524646293",
+        "Stock, Handguard":"7524670722",
+        "Muzzle, Front Iron, Safety":"7524673525",
+        "Magazine":"7524654680"
+      },
+      "ASH 12.7":{
+        "Lower Body":"9110981378",
+        "Upper Body":"9110983741",
+        "Handguard, Trigger, Front Iron":"9110984748",
+        "Rail":"9110990157",
+        "Details":"9110991021",
+        "Magazine":"9110986576"
+      },
+      "Ak308":{
+        "Reciever":"7524095452",
+        "Bolt":"7524103395",
+        "Grips, Stock":"7524093932",
+        "Rear Iron, Safety":"7524102646",
+        "Barrel, Stock Tube":"7524103962",
+        "Details":"7524100185",
+        "Magazine":"7524096061"
+      },
+      "Aug A3":{
+        "Body":"96039417962008",
+        "Vert Grip":"90576726007594",
+        "Upper Reciever":"112398924348747",
+        "Trigger":"119774211852277",
+        "Details 1":"129587250779852",
+        "Details 2":"97321514862380",
+        "Lower Reciever":"85440231451873",
+        "Muzzle Brake":"98605722844844",
+        "Bolt":"131259648716718, 131207426817095",
+        "Scope":"135010673741960, 119513310812826, 87413246101665, 86218140474843, 129015210287154",
+        "Magazine":"84069409600946, 98822697574882"
+      },
+      "Axis II":{
+        "Body":"9132906715",
+        "Barrel":"9132914016",
+        "Trigger, Stock Pad, Details":"9132911160",
+        "Magazine":"9132909656"
+      },
+      "BFG-50":{
+        "Upper Reciever":"138581563440577",
+        "Lower Reciever":"123519844458680",
+        "Scope":"91960473984045, 71407712855948",
+        "Muzzle":"71954921079141",
+        "Grip":"82287151652034",
+        "Bolt":"137402206636548",
+        "Body":"133077335767305",
+        "Barrel":"105605563378079"
+      },
+      "Barret 50":{
+        "Upper Reciever":"80170789196173",
+        "Lower Reciever":"109986470087656, 139300515577964",
+        "Magwell":"97924417608143",
+        "Rear Irons":"140715525611847",
+        "Rail":"107385024162675",
+        "Trigger":"103127737806133, 92910485903207",
+        "Stock":"73120398128265, 89048996654202",
+        "Bipod":"91714171990615, 137806220854253",
+        "Irons":"123305359960349, 95683232205833, 98159885057952",
+        "Grip":"85645045711307",
+        "Muzzle":"73772654351689",
+        "Bolt":"94918047678887",
+        "Magazine":"95834589744748"
+      },
+      "Benelli":{
+        "Reciever":"9118678633",
+        "Tube":"9118684904",
+        "Barrel":"9118680945",
+        "Stock":"9118687222, 9118688172",
+        "Grip":"9118683717",
+        "Details":"9118685713, 9118686655",
+        "Rail":"15565679432",
+        "Shell":"12086641766"
+      },
+      "Beretta ARX-200":{
+        "Upper Reciever":"9118740271",
+        "Lower Reciever":"9118739243",
+        "Details":"9118745238, 9118746482",
+        "Irons":"9118744392",
+        "Handguard":"9118740923",
+        "Stock Pad":"9118742920",
+        "Magazine":"9118742092"
+      },
+      "Dragunov SVU":{
+        "Lower Reciever":"80467518433324",
+        "Upper Reciever":"137590124129397",
+        "Body":"78876373638241",
+        "Details":"135416998053358",
+        "Irons":"137929962579697, 110289903946513",
+        "Magazine":"117875216305482"
+      },
+      "FN FAL":{
+        "Lower Reciever, Barrel":"7523407643",
+        "Upper Reciever":"7523410211",
+        "Body Details":"7523408323, 7523411419",
+        "Fine Details":"7523410899, 7523413832, 7523411925",
+        "Stock, Handguard":"7523405656, 7523409502",
+        "Magazine":"7523408947"
+      },
+      "G36C":{
+        "Body":"80632158687884, 80090047519732",
+        "Muzzle":"129001874775574",
+        "Bolt":"103127026022223, 100251384471212",
+        "Rail":"129800157328462",
+        "Innards":"131764258299764, 83531171919753",
+        "Grip":"127334270875197",
+        "Magwell":"95549972788377, 105926690608085",
+        "Trigger":"135042039225608, 70937538524368",
+        "Magazine":"123407594285667"
+      },
+      "Ithaca Mag-10":{
+        "Rail, Trigger":"9120211010",
+        "Woodwork":"9120208309",
+        "Barrel, Body":"9120210218",
+        "Details":"9120234694"
+      },
+      "Kriss Vector":{
+        "Rear Reciever":"111722337294060",
+        "Front Reciever":"95883218942817",
+        "Irons":"137744549010273",
+        "Bolt":"79913008095206, 112076537461742",
+        "Stock, Dustcover":"86330498402679",
+        "Details":"127490805902667",
+        "Magazine":"110638007653997"
+      },
+      "L85A2":{
+        "Body":"9120472206",
+        "Foregrip":"9120485568",
+        "Details":"9120478931, 9120479683",
+        "Grip, Stock":"9120473387",
+        "Magazine":"9120477868"
+      },
+      "M14 EBR":{
+        "Barrel, Irons, Upper Reciever":"9120608966",
+        "Muzzle, Details":"9120610353",
+        "Handguard, Lower Reciever":"9120585330",
+        "Grips, Stock":"9120608144",
+        "Stock Structure":"9120587228",
+        "Magazine":"9120609599"
+      },
+      "M200":{
+        "Body, Muzzle":"9170456537",
+        "Stock, Barrel":"9170468983",
+        "Handle, Stock":"9170469969",
+        "Magazine":"9170467897"
+      },
+      "M24A2":{
+        "Barrel, Stock Pad":"9127627541",
+        "Cheek Rest":"9127666113",
+        "Body":"9127646104",
+        "Muzzle, Bolt":"9127700190",
+        "Magazine":"9127665229"
+      },
+      "M79":{
+        "Tall Iron":"125305726626846, 112041469651847, 93078728214557, 104667215338565",
+        "Barrel":"97848576867704, 117241827158546, 110861810618628, 137127420478965, 86375607698865",
+        "Reciever":"116118297752547, 116118297752547, 92871729035899",
+        "Stock":"120209620163910, 100861347589105",
+        "Trigger":"72219706190992, 114539938397687",
+        "Foregrip":"100590690945282"
+      },
+      "MP5":{
+        "Stock, Barrel":"9170639425",
+        "Body, Foregrip":"9170637393",
+        "Grip, Stock, Upper Body":"9170636264",
+        "Magazine":"9170637905"
+      },
+      "MP7":{
+        "Body":"9119909513",
+        "Stock Tube, Details":"9119915432",
+        "Grip":"9119906975",
+        "Magazine":"9119910463"
+      },
+      "Mk47 Mutant":{
+        "Upper Reciever":"80622516106619",
+        "Lower Reciever":"121966229140203",
+        "Stock":"71396140657574, 114519617032534",
+        "Sight":"118998077217614",
+        "Details":"135381781120644",
+        "Grip":"127262071121420",
+        "Cage":"140029337229662",
+        "Muzzle Brake":"123863147145205",
+        "Magazine":"89068493868722"
+      },
+      "OTs Groza":{
+        "Woodwork":"7523453569",
+        "Upper Reciever, Vertical Grip":"7523458925",
+        "Bolt":"7523460184",
+        "Stock, Handle":"7523459541",
+        "Details":"7523462002, 7523460748, 7523461308",
+        "Innards":"7523457495",
+        "Magazine":"7523462865"
       }
   },
 
@@ -113,24 +331,74 @@
     "USP"
   },
 
-  "Attachments":{
-
-    "Optics":{
-
+  "Armor":{
+    "Headgear":{
+      "Altyn Helmet (All)":{
+        "Visor":"74952588785301",
+        "Frame":"120797026525912",
+        "Face Mask":"111866613653360",
+        "Microphone":"116103977218807",
+        "Hinges":"123284907728527",
+        "Helmet":"130239614864464"
+      },
+      "Balaclava":{
+        "Balaclava":"104232736509082"
+      },
+      "Beanie":{
+        "Beanie":"13411043066"
+      },
+      "Helmet (All)":{
+        "Helmet":"2927949340",
+        "Strap":"4931559458",
+        "Buckles":"4931560160"
+      },
+      "Hunting Hat":{
+        "Hat":"131727861777061",
+        "Camo Texture":"10029677137"
+      },
+      "Neon Hat":{
+        "Hat":"131727861777061"
+      },
+      "Light Kevlar Helmet (All)":{
+        "Helmet":"2745447899",
+        "Chinstrap":"2029425563"
+      },
+      "Military Cap":{
+        "Hat":"15305066244"
+      }
     },
-
-    "Barrel":{
-      
+    "Body Armor":{
+      "Heavy Insulated Rig (All)":{
+        "Ammo Belt":"2416130142",
+        "Vest":"6438013189"
+      },
+      "Heavy Service Rig":{
+        "Armor":"73980766568102",
+        "Green Camo Texture":"29478784",
+        "White Camo Texture":"114825296"
+      },
+      "Hunting Vest (Camo) ":{
+        "Vest":"http://www.roblox.com/asset/?id=108788572",
+        "Camo Pattern Texture":"10029677137"
+      },
+      "Neon Vest":{
+        "Vest":"http://www.roblox.com/asset/?id=108788572"
+      },
+      "Light Insulated Rig (All)":{
+        "Vest":"6438013189"
+      },
+      "Light Service Rig":{
+        "Vest":"131503986236819",
+        "Green Camo Texture":"29478784",
+        "White Camo Texture":"114825296"
+      }
     }
   },
-  
 
-  "Sounds":{
+  "Attachments":{
+    "Optics":{},
+    "Barrel":{}
+  },
 
-  }
-
+  "Sounds":{}
 }
-
-
-
-
