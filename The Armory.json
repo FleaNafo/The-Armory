@@ -79,7 +79,38 @@
   },
 
   "Secondaries":{
-    
+    "Deagle":{
+      "Lower Body":"9119058539",
+      "Slide":"9119062062",
+      "Hammer and Mag":"9119066911",
+      "Trigger and Irons":"9119068649",
+      "Handle":"9119069601"
+    },
+    "Five-seven":{
+      "Trigger and Mag":"9119440742",
+      "Barrel and Irons":"9119441225",
+      "Lower Body":"9119437873",
+      "Slide":"9119440060"
+    },
+    "Glock17":{
+      "Trigger":"121027768315513",
+      "Mag":"138210816544059",
+      "Irons":[
+        126198791272087
+        125318998428525
+      ],
+      "Slide":"89306853756077",
+      "Body":"105773189976145",
+      "Barrel":"131552726568938"
+    },
+    "M1911"
+    "M79"
+    "M9"
+    "Makarov"
+    "Mateba 2006m"
+    "SW"
+    "SawedOff"
+    "USP"
   },
 
   "Attachments":{
