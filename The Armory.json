@@ -1,0 +1,105 @@
+{
+  "Primaries": {
+      "AK-47":{
+        "Foregrip, Stock":"7523735322",
+        "Barrel":"7523739737",
+        "Body, Front Iron":"7523738848",
+        "Details":"7523743229",
+        "Ejector":"7523743989",
+        "Safety, Dust Cover ":"7523746692",
+        "Trigger, Rear Iron":"7523742475",
+        "Magazine":"7523748522"
+      },
+      "AS VAL":{
+        "Stock, Trigger":"7524139956",
+        "Lower Reciever":"7524127808",
+        "Upper Reciever":"7524134895",
+        "Irons, Charging Handle":"7524137443",
+        "Barrel, Stock Structures":"7524127808",
+        "Grips":"7524126091",
+        "Magazine":"7524130649"
+      },
+      "Honey Badger":{
+        "Bolt":"94728494398881",
+        "Bolt Piece":"103952341122383",
+        "Dust Cover": "71450063001873",
+        "Grip":"134158313549026",
+        "Inner Barrel":"76157534833210",
+        "Lower Reciever":"84454099574912",
+        "Upper Reciever":"82756599667576",
+        "Magazine":"73465007411749",
+        "Muzzle":"138040910907072",
+        "Trigger, Details 1":"110606402531587",
+        "Details 2": "104080269138054",
+        "Stock":"109022757018547",
+        "Stock Tube":"108291997187321",
+        "Suppressor":"101818658590143"
+      },
+      "TRG":{
+        "Body":"9132857081",
+        "Barrel, Bolt":"9132861967",
+        "Muzzle":"9132863666",
+        "Trigger, Stock Pad":"9132860914",
+        "Stock Piece":"9132857931",
+        "Magazine":"9132864302"
+      },
+      "M16":{
+        "Carry Handle, Barrel":"9120646958",
+        "Trigger, Details":"9120652317",
+        "Stock":"9120651410",
+        "Grip":"9120650332",
+        "Hand Guard":"9120649669",
+        "Reciever, Irons, Muzzle":"9120646354",
+        "Body Parts":"9120652997",
+        "Magazine":"9120648962"
+      },
+      "HK416":{
+        "Upper Reciever":"123496671308108",
+        "Lower Reciever":"134233532002350",
+        "Stock Pad":"95869482487124",
+        "Trigger, Stock Tube":"75857341069182",
+        "Irons Piece 1":"121540396303614",
+        "Irons Piece 2":"134049485713085",
+        "Irons Piece 3":"94552340846798",
+        "Grip, Stock Piece":"136291707123142",
+        "Bolt Main":"73855911396604",
+        "Bolt Mini":"106556950120191",
+        "Magazine":"109409402016637"
+      },
+      "M870":{
+        "Tube":"119787134697251",
+        "Stock":"107915535519289",
+        "Stock End":"119469455756857",
+        "Reciever":"82896847326893",
+        "Pump":"103537619397171",
+        "Barrel":"86550461295498",
+        "Shell":"12086641766",
+        "Rail":"15565679432"
+      }
+  },
+
+  "Secondaries":{
+    
+  },
+
+  "Attachments":{
+
+    "Optics":{
+
+    },
+
+    "Barrel":{
+      
+    }
+  },
+  
+
+  "Sounds":{
+
+  }
+
+}
+
+
+
+
